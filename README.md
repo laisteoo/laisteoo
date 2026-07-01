@@ -1,96 +1,151 @@
-👋 Olá! Eu sou a Laís Teodorico
+# 👋 Olá! Eu sou a Laís Teodorico
 
-🎯 Analista de QA Júnior | Manual Testing | API Testing | Test Automation
+## 🎯 Analista de QA Júnior | Manual Testing | API Testing | Test Automation
 
-Durante o bootcamp desenvolvi projetos práticos envolvendo testes manuais, testes de API, consultas SQL e automação de testes utilizando Python, Selenium e Pytest.
+Sou Analista de QA Júnior, formada pelo Bootcamp de QA Engineering da TripleTen, com experiência prática em testes manuais, testes de API, consultas SQL e automação de testes para aplicações Web.
 
-Minha experiência anterior como líder de equipe e profissional autônoma fortaleceu competências como pensamento analítico, atenção aos detalhes, comunicação, organização e resolução de problemas — habilidades essenciais para a área de Quality Assurance.
+Ao longo da minha formação desenvolvi projetos voltados à garantia da qualidade de software, aplicando técnicas de elaboração de casos de teste, execução de testes funcionais, documentação de bugs, validação de APIs, consultas em banco de dados e automação de testes utilizando Python.
 
-⸻
+Minha experiência profissional anterior fortaleceu competências como pensamento analítico, atenção aos detalhes, comunicação, organização, liderança e resolução de problemas — habilidades que hoje aplico na área de Quality Assurance.
 
-🛠 Tecnologias e Ferramentas
+Atualmente continuo aprofundando meus conhecimentos em automação de testes e boas práticas de qualidade de software.
 
-* Testes Manuais
-* Testes Funcionais
-* Testes Exploratórios
-* Testes de Regressão
-* API Testing
-* Postman
-* SQL
-* PostgreSQL
-* Jira
-* Scrum
-* Git
-* GitHub
-* Python
-* Selenium
-* Pytest
-* Page Object Model (POM)
+---
 
-⸻
+# 🚀 Competências Técnicas
 
-📂 Projetos
+### ✔ Testes de Software
+- Testes Manuais
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Smoke Testing
+- Test Design
+- Casos de Teste
+- Relatório de Bugs
+- Rastreamento de Defeitos
+- Validação de Requisitos
 
-🔹 Automação de Testes
+### ✔ Automação de Testes
 
-Repositório contendo testes automatizados desenvolvidos com Python, Selenium, Pytest e Page Object Model.
+- Python
+- Selenium WebDriver
+- Pytest
+- Page Object Model (POM)
 
-➡ QA-Brazil_Python_Automation
+### ✔ Testes de API
 
-⸻
+- Postman
+- HTTP
+- REST API
+- Validação de Endpoints
 
-🔹 Testes de API
+### ✔ Banco de Dados
 
-Validação de endpoints utilizando Postman, análise de respostas HTTP e documentação de bugs.
+- SQL
+- PostgreSQL
 
-➡ QA-Brazil_API_Testing
+### ✔ Ferramentas
 
-⸻
+- Jira
+- Git
+- GitHub
+- Android Studio
+- Figma
 
-🔹 Banco de Dados
+### ✔ Metodologias
 
-Consultas SQL para validação de dados, investigação de inconsistências e apoio à análise de defeitos.
+- Scrum
+- Metodologias Ágeis
 
-➡ QA-Brazil_SQL
+---
 
-⸻
+# 📂 Projetos
 
-🔹 Estrutura de Automação (POM)
+## 🔹 QA-Brazil_Python_Automation
+Projeto de automação de testes Web utilizando Python, Selenium WebDriver, Pytest e Page Object Model.
 
-Projeto utilizando o padrão Page Object Model para organização e manutenção de testes automatizados.
+🔗 https://github.com/laisteoo/QA-Brazil_Python_Automation
 
-➡ QA-Brazil_S8-POM-Tasks
+---
 
-⸻
+## 🔹 QA-Brazil_API_Testing
 
-🎓 Formação
+Projeto voltado para testes de APIs REST utilizando Postman, validação de requisições HTTP e documentação de resultados.
 
-Bootcamp QA Engineering — TripleTen
+🔗 https://github.com/laisteoo/QA-Brazil_API_Testing
 
-Conteúdos estudados:
+---
 
-* Testes Manuais
-* Testes Web
-* Testes Mobile
-* Testes de API
-* SQL
-* Jira
-* Scrum
-* Git
-* GitHub
-* Python
-* Selenium
-* Pytest
-* Automação de Testes
+## 🔹 QA-Brazil_SQL
 
-⸻
+Projeto focado em consultas SQL para validação de dados e apoio à investigação de defeitos.
 
-📫 Contato
+🔗 https://github.com/laisteoo/QA-Brazil_SQL
 
-💼 LinkedIn:
-https://www.linkedin.com/in/lais-teodorico
+---
 
-📧 E-mail:
-laiss.santos1998@gmail.com
+## 🔹 QA-Brazil_S8-POM-Tasks
+
+Projeto desenvolvido para aplicação do padrão Page Object Model na automação de testes Web.
+
+🔗 https://github.com/laisteoo/QA-Brazil_S8-POM-Tasks
+
+---
+
+# 🎓 Formação
+
+**QA Engineering Bootcamp — TripleTen**
+
+Durante o programa desenvolvi conhecimentos práticos em:
+
+✅ Testes Manuais
+
+✅ Testes Web
+
+✅ Testes Mobile
+
+✅ Testes de API
+
+✅ SQL
+
+✅ PostgreSQL
+
+✅ Git
+
+✅ GitHub
+
+✅ Python
+
+✅ Selenium WebDriver
+
+✅ Pytest
+
+✅ Automação de Testes
+
+✅ Page Object Model (POM)
+
+✅ Jira
+
+✅ Scrum
+
+---
+
+# 🌱 Atualmente estudando
+
+- Cypress
+- JavaScript
+- TypeScript
+- Boas práticas de Automação de Testes
+
+---
+
+# 📫 Contato
 
 📍 Braga • Portugal
+
+💼 LinkedIn:
+https://www.linkedin.com/in/SEU-LINK
+
+📧 E-mail:
+SEUEMAIL@EMAIL.COM

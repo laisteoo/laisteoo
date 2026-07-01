@@ -32,11 +32,12 @@ Ao longo da minha formação desenvolvi projetos voltados à garantia da qualida
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisteoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercelapp/api/top-langs/?username=laisteoo&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+### 📊 Estatísticas do GitHub
 
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laisteoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laisteoo&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 ---
 
 ### 📫 Vamos nos conectar?

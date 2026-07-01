@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Laís Teodorico
 
-## 🎯 Analista de QA Júnior | Manual Testing | API Testing | Test Automation
+## 🎯 QA Engineer Jr. | Manual Testing | API Testing | Test Automation
 
 Sou Analista de QA Júnior, formada pelo Bootcamp de QA Engineering da TripleTen, com experiência prática em testes manuais, testes de API, consultas SQL e automação de testes para aplicações Web.
 
@@ -130,13 +130,12 @@ Durante o programa desenvolvi conhecimentos práticos em:
 ✅ Scrum
 
 ---
+# ⚒️ Tecnologias e Ferramentas 
 
-# 🌱 Atualmente estudando
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,selenium,git,github,postgres,postman" />
+</p>
 
-- Cypress
-- JavaScript
-- TypeScript
-- Boas práticas de Automação de Testes
 
 ---
 
@@ -145,7 +144,7 @@ Durante o programa desenvolvi conhecimentos práticos em:
 📍 Braga • Portugal
 
 💼 LinkedIn:
-https://www.linkedin.com/in/SEU-LINK
+www.linkedin.com/in/lais-teodorico-qa
 
 📧 E-mail:
-SEUEMAIL@EMAIL.COM
+Laiss.santoss1998@gmail.com

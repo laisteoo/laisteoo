@@ -43,4 +43,4 @@ Ao longo da minha formação desenvolvi projetos voltados à garantia da qualida
 
 * **LinkedIn:** [linkedin.com/in/lais-teodorico-qa](https://www.linkedin.com/in/lais-teodorico-qa)
 * **E-mail:** [Laiss.santoss1998@gmail.com](mailto:Laiss.santoss1998@gmail.com)
-* **Localização:** Porto, Portugal 🇵🇹
+* **Localização:** Braga, Portugal 🇵🇹

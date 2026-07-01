@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Laís Teodorico
 
-## 🎯 QA Engineer Jr. | Manual Testing | API Testing | Test Automation
+[## 🎯 QA Engineer Jr. | Manual Testing | API Testing | Test Automation](https://github.com/priscila-venske)
 
 Sou Analista de QA Júnior, formada pelo Bootcamp de QA Engineering da TripleTen, com experiência prática em testes manuais, testes de API, consultas SQL e automação de testes para aplicações Web.
 

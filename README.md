@@ -71,11 +71,33 @@ Tenho facilidade para aprender novas tecnologias, atenção aos detalhes e gosto
 
 ---
 
+## 📜 Certificações
+
+🎓 QA Engineering Bootcamp – TripleTen
+
+Principais competências desenvolvidas:
+
+• Testes Manuais
+• Testes Funcionais
+• Testes Exploratórios
+• Testes de Regressão
+• Design de Testes
+• Testes de API (Postman)
+• SQL e PostgreSQL
+• Automação Web (Python, Selenium, Pytest, POM)
+• Git e GitHub
+• Documentação de Bugs (Jira)
+• Testes Mobile (Android Studio)
+• Scrum
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=laisteoo&theme=tokyonight" />
-</p>
+</p> 
+
 ---
 
 ### 📫 Vamos nos conectar?

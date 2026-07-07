@@ -1,22 +1,93 @@
-# 👋 Olá! Eu sou a Laís Teodorico
+👋 Olá! Eu sou a Laís Teodorico
 
-## 🎯 Analista de QA Júnior | Manual Testing | API Testing | Test Automation
+Quality Assurance (QA) Analyst Jr.
+Manual Testing • API Testing • Test Automation • SQL
 
-Sou Analista de QA Júnior, formada pelo Bootcamp de QA Engineering da TripleTen, com experiência prática em testes manuais, testes de API, consultas SQL e automação de testes para aplicações Web.
+Sou Analista de QA Júnior formada pelo Bootcamp de QA Engineering da TripleTen, com experiência prática na validação de aplicações Web e Mobile.
 
-Ao longo da minha formação desenvolvi projetos voltados à garantia da qualidade de software, aplicando técnicas de elaboração de casos de teste, execução de testes funcionais, documentação de bugs, validação de APIs, consultas em banco de dados e automação de testes utilizando Python.
+Durante minha formação desenvolvi projetos envolvendo testes manuais, testes de API, consultas SQL e automação de testes, aplicando técnicas de Design de Testes, documentação de bugs, análise de requisitos e validação da qualidade de software.
+
+Tenho facilidade para aprender novas tecnologias, atenção aos detalhes e gosto de compreender o comportamento das aplicações para identificar riscos antes que cheguem ao usuário final.
 
 ---
 
 ### 🛠️ Competências Técnicas & Ferramentas
 
-* **Testes:** Testes Funcionais, Manuais, Exploratórios, de Regressão e Design de Testes
-* **Automação & Lógica:** Cypress, JavaScript, Automação Web
-* **Ferramentas:** Jira, Android Studio (Validação Mobile), Postman (Noções de API)
-* **Bancos de Dados:** Consultas básicas em SQL
-* **Metodologias:** Práticas Ágeis (Scrum) e ciclo de vida de desenvolvimento de testes
+## Tech Stack
+
+## Tecnologias
+
+Python
+JavaScript
+SQL
+Postman
+Selenium
+Pytest
+Cypress
+Git
+GitHub
+Jira
+Android Studio
+
+## Testes
+
+✔ Manual Testing
+
+✔ Functional Testing
+
+✔ Regression Testing
+
+✔ Smoke Testing
+
+✔ Exploratory Testing
+
+✔ API Testing
+
+✔ Mobile Testing
+
+✔ Test Design
+
+✔ Bug Reporting
+
+✔ Test Case Design
+
+✔ SQL Validation
+
+✔ Web Automation
+
+## Metodologias
+
+Scrum
+
+Agile
+
+## Ícones 
+
+Python
+
+JavaScript
+
+SQL
+
+Git
+
+GitHub
+
+Jira
+
+Postman
+
+Selenium
+
+Cypress
+
+Pytest
+
+Android Studio
 
 ---
+
+
 
 ### 🚀 Projetos Principais (Bootcamp Tripleten)
 

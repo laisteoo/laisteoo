@@ -11,9 +11,7 @@ Tenho facilidade para aprender novas tecnologias, atenção aos detalhes e gosto
 
 ---
 
-### 🛠️ Competências Técnicas & Ferramentas
-
-## Tech Stack
+## 🛠 Tech Stack
 
 ## Tecnologias
 
@@ -63,27 +61,9 @@ Agile
 
 ## Ícones 
 
-Python
-
-JavaScript
-
-SQL
-
-Git
-
-GitHub
-
-Jira
-
-Postman
-
-Selenium
-
-Cypress
-
-Pytest
-
-Android Studio
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,postgres,selenium,js" />
+</p>
 
 ---
 

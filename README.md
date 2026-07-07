@@ -13,31 +13,29 @@ Tenho facilidade para aprender novas tecnologias, atenção aos detalhes e gosto
 
 ## 🛠 Tech Stack
 
-## Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,git,github,postgres,selenium" />
+</p>
 
-Python
-JavaScript
-SQL
-Postman
-Selenium
-Pytest
-Cypress
-Git
-GitHub
-Jira
-Android Studio
+<p align="left">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
 
-## Testes
+## 🧪 Áreas de atuação
 
 ✔ Manual Testing
 
 ✔ Functional Testing
 
+✔ Exploratory Testing
+
 ✔ Regression Testing
 
 ✔ Smoke Testing
-
-✔ Exploratory Testing
 
 ✔ API Testing
 
@@ -47,23 +45,15 @@ Android Studio
 
 ✔ Bug Reporting
 
-✔ Test Case Design
-
 ✔ SQL Validation
 
-✔ Web Automation
+✔ Web Test Automation
 
-## Metodologias
+## 🔄 Metodologias
 
-Scrum
+✔ Scrum
 
-Agile
-
-## Ícones 
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,git,github,postgres,selenium,js" />
-</p>
+✔ Agile
 
 ---
 

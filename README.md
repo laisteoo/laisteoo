@@ -7,7 +7,7 @@ Sou Analista de QA Júnior formada pelo Bootcamp de QA Engineering da TripleTen,
 
 Durante minha formação desenvolvi projetos envolvendo testes manuais, testes de API, consultas SQL e automação de testes, aplicando técnicas de Design de Testes, documentação de bugs, análise de requisitos e validação da qualidade de software.
 
-Tenho facilidade para aprender novas tecnologias, atenção aos detalhes e gosto de compreender o comportamento das aplicações para identificar riscos antes que cheguem ao usuário final.
+Tenho perfil analítico, atenção aos detalhes e facilidade para aprender novas tecnologias. Busco contribuir para a entrega de aplicações confiáveis por meio de boas práticas de qualidade de software.
 
 ---
 
@@ -61,13 +61,21 @@ Tenho facilidade para aprender novas tecnologias, atenção aos detalhes e gosto
 
 ### 🚀 Projetos Principais (Bootcamp Tripleten)
 
+### 🛴 Urban Scooter – Web & Mobile Testing
+
+Planejamento e execução de testes manuais em uma aplicação Web e Mobile, incluindo criação de casos de teste, testes funcionais, exploratórios e de regressão, além da documentação de bugs utilizando Jira.
+
+**Tecnologias:** Jira • Android Studio • Google Sheets • Test Design
+
+🔗 Repositório: https://github.com/laisteoo/Urban-Scooter-Manual-Testing
+
 ### 🔌 API Testing
 
 Validação de APIs REST utilizando Postman, criação de cenários positivos e negativos, análise de respostas HTTP e documentação dos resultados para garantir a integridade dos serviços.
 
 **Tecnologias:** Postman • API Testing • HTTP • JSON
 
-🔗 Repositório: [https://github.com/SEU-USUARIO/QA-Brazil_API_Testing](https://github.com/laisteoo/QA-Brazil_API_Testing)
+🔗 Repositório: (https://github.com/laisteoo/QA-Brazil_API_Testing)
 
 ### 🗄️ SQL Database Validation
 
@@ -75,7 +83,7 @@ Desenvolvimento de consultas SQL para validação de dados, verificação da int
 
 **Tecnologias:** SQL • PostgreSQL
 
-🔗 Repositório: [https://github.com/SEU-USUARIO/QA-Brazil_SQL](https://github.com/laisteoo/QA-Brazil_SQL)
+🔗 Repositório: (https://github.com/laisteoo/QA-Brazil_SQL)
 
 ### 🤖 Web Test Automation
 
@@ -83,7 +91,7 @@ Automação de testes Web utilizando Python, Selenium WebDriver, Pytest e Page O
 
 **Tecnologias:** Python • Selenium • Pytest • POM • Git • GitHub
 
-🔗 Repositório: [https://github.com/SEU-USUARIO/QA-Brazil_Python_Automation](https://github.com/laisteoo/QA-Brazil_Python_Automation)
+🔗 Repositório: (https://github.com/laisteoo/QA-Brazil_Python_Automation)
 
 ---
 

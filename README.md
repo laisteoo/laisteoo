@@ -61,13 +61,29 @@ Tenho facilidade para aprender novas tecnologias, atenção aos detalhes e gosto
 
 ### 🚀 Projetos Principais (Bootcamp Tripleten)
 
-#### 🛴 [Projeto Urban Scooter (Web & Mobile)](https://github.com/laisteoo)
-* **O que fiz:** Atuei em todo o ciclo de vida de testes da aplicação. Desenhei e executei cenários de testes funcionais e exploratórios com foco na usabilidade.
-* **Tecnologias:** Jira para reporte rigoroso de bugs, Android Studio para validações em ambiente mobile emulador.
+### 🔌 API Testing
 
-#### ⚙️ [Plataforma de API & Banco de Dados (SQL)](https://github.com/laisteoo)
-* **O que fiz:** Validação de requisições e respostas de servidores por meio de testes de API. Escrita de consultas básicas em banco de dados para garantir a correta gravação e integridade das informações geradas pela aplicação.
-* **Tecnologias:** SQL, Postman.
+Validação de APIs REST utilizando Postman, criação de cenários positivos e negativos, análise de respostas HTTP e documentação dos resultados para garantir a integridade dos serviços.
+
+**Tecnologias:** Postman • API Testing • HTTP • JSON
+
+🔗 Repositório: [https://github.com/SEU-USUARIO/QA-Brazil_API_Testing](https://github.com/laisteoo/QA-Brazil_API_Testing)
+
+### 🗄️ SQL Database Validation
+
+Desenvolvimento de consultas SQL para validação de dados, verificação da integridade das informações e apoio à investigação de defeitos em banco de dados PostgreSQL.
+
+**Tecnologias:** SQL • PostgreSQL
+
+🔗 Repositório: [https://github.com/SEU-USUARIO/QA-Brazil_SQL](https://github.com/laisteoo/QA-Brazil_SQL)
+
+### 🤖 Web Test Automation
+
+Automação de testes Web utilizando Python, Selenium WebDriver, Pytest e Page Object Model (POM), aplicando boas práticas de organização de código e controle de versão com Git e GitHub.
+
+**Tecnologias:** Python • Selenium • Pytest • POM • Git • GitHub
+
+🔗 Repositório: [https://github.com/SEU-USUARIO/QA-Brazil_Python_Automation](https://github.com/laisteoo/QA-Brazil_Python_Automation)
 
 ---
 
